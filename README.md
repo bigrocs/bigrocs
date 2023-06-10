@@ -1,7 +1,7 @@
 <!--
  * @Author: BigRocs
  * @Date: 2023-06-10 10:23:57
- * @LastEditTime: 2023-06-10 10:24:26
+ * @LastEditTime: 2023-06-10 10:27:49
  * @LastEditors: BigRocs
  * @Description: QQ: 532388887, Email:bigrocs@qq.com
 -->
@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 
 
 
-![](https://www.dmoe.cc/random.php?rg=11)
 
 
 
